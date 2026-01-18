@@ -53,12 +53,6 @@ Saya adalah seorang **Web Developer** yang sedang aktif membangun berbagai proye
 
 ---
 
-### 🐍 My Contributions Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/oziy-id/oziy-id/output/github-snake.svg" alt="Snake animation" />
-</div>
-
-
 ### 🏆 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oziy-id&theme=tokyonight)
 
