@@ -42,8 +42,6 @@ Saya adalah seorang **Web Developer** yang sedang aktif membangun berbagai proye
 
 ---
 
----
-
 ### 📊 My Coding Journey
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oziy-id&show_icons=true&theme=tokyonight&border_radius=10" alt="oziy-id's stats" />
@@ -51,7 +49,10 @@ Saya adalah seorang **Web Developer** yang sedang aktif membangun berbagai proye
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziy-id&layout=compact&theme=tokyonight&border_radius=10" alt="oziy-id's languages" />
 </div>
 
-![snake gif](https://github.com/oziy-id/oziy-id/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oziy-id/oziy-id/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ### 🏆 Contribution Graph
