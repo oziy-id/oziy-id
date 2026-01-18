@@ -51,6 +51,7 @@ Saya adalah seorang **Web Developer** yang sedang aktif membangun berbagai proye
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziy-id&layout=compact&theme=tokyonight&border_radius=10" alt="oziy-id's languages" />
 </div>
 
+![snake gif](https://github.com/oziy-id/oziy-id/blob/output/github-snake-dark.svg)
 ---
 
 ### 🏆 Contribution Graph
