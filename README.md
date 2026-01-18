@@ -6,7 +6,7 @@
 
 ---
 
-### 💫 About Me
+# About Me
 Saya adalah seorang **Web Developer** yang sedang aktif membangun berbagai proyek digital, mulai dari profil perusahaan hingga alat fungsional. Saya senang mempelajari teknologi baru dan mengubah ide menjadi baris kode.
 
 - 🌱 **Sedang mendalami:** Next.js, Python, dan Database Management.
@@ -14,7 +14,7 @@ Saya adalah seorang **Web Developer** yang sedang aktif membangun berbagai proye
 
 ---
 
-### 🌐 Connect with Me
+# Connect with me
 <div align="left">
   <a href="https://instagram.com/oziy.id" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ig" />
@@ -35,27 +35,27 @@ Saya adalah seorang **Web Developer** yang sedang aktif membangun berbagai proye
 
 ---
 
-### 🛠️ Tech Stack
+# Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,github,vercel"/>
 </p>
 
 ---
 
-### 📊 My Coding Journey
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oziy-id&show_icons=true&theme=tokyonight&border_radius=10" alt="oziy-id's stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oziy-id&layout=compact&theme=tokyonight&border_radius=10" alt="oziy-id's languages" />
 </div>
 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/oziy-id/oziy-id/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
+
 ---
 
-### 🏆 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oziy-id&theme=tokyonight)
 
 <p align="center">
